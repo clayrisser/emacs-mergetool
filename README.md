@@ -31,7 +31,9 @@ make install
 
 ## Usage
 
-[Contribute](https://github.com/codejamninja/emacs-mergetool/blob/master/CONTRIBUTING.md) usage docs
+```sh
+git mergetool
+```
 
 
 ## Support
