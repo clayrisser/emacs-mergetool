@@ -4,6 +4,8 @@
 
 > use emacs as git mergetool
 
+![](assets/emacs-mergetool.png)
+
 Please ★ this repo if you found it useful ★ ★ ★
 
 
